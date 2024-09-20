@@ -12,7 +12,7 @@ const Header = () =>{
         <ul className="flex space-x-4">
             <li>
                 <Link
-                href='blogs'
+                href='/blogs'
                 className="text-white hover:underline"
                 >
                     Blogs
